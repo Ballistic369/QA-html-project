@@ -1,0 +1,21 @@
+h2{
+	color: red;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration: strong;
+	animation: type 7s ;
+	overflow: hidden;
+	white-space: nowrap;
+	font-family: consolas;
+	border-right:4px solid black;
+	width: 26ch;
+}
+@keyframes type{
+	0%{
+		width:0ch;		
+	}
+	100% {
+		width:26ch;
+	}
+	
+}
