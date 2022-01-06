@@ -58,7 +58,9 @@ h4{
 .class-for-articles {
 	background-color: #32C350;
 }
-
+.class-for-GFC {
+	background-image: url("img/green-bamboo-ppt-backgrounds.jpg");
+}
 .class-for-who-am-i {
 	background-image: url("img/question-background-images-2.png");
 }
